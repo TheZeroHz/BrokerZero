@@ -32,7 +32,7 @@ If you are a developer, you can explore the codebase, APIs, and documentation in
 
 ## Support and Contact
 
-For technical support, questions, or suggestions, please reach out to us at [your-email@example.com](mailto:your-email@example.com). We're here to assist you in making the most of your BrokerZero device.
+For technical support, questions, or suggestions, please reach out to us at [mail_to_ZeroHz](mailto:rakibhasan01316980149@gmail.com). We're here to assist you in making the most of your BrokerZero device.
 
 ## License
 
