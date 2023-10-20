@@ -1,10 +1,10 @@
-# BrokerZero - Your Versatile IoT Device
+# BrokerZero - Where Broker Meets Zero Penetration Excellence
 
 ![BrokerZero Image](images/brokerzero.png)
 
 ## Introduction
 
-BrokerZero is a versatile IoT device designed to provide you with a range of capabilities for various hacking, security, and IoT projects. Similar to the popular "Flipper Zero," BrokerZero offers a rich set of features, making it an indispensable tool for security researchers, penetration testers, and DIY enthusiasts. This README provides an overview of BrokerZero and its key features.
+BrokerZero is a penetration testing device designed to provide you with a range of capabilities for various hacking, security, and IoT projects. Similar to the popular "Flipper Zero," BrokerZero offers a rich set of features, making it an indispensable tool for security researchers, penetration testers, and DIY enthusiasts.
 
 ## Key Features
 
